@@ -13,3 +13,5 @@
 <p align="center">
 <img src="gif/joey.gif" width="500px">
 </p>
+
+<h2> <a href="https://rajspeaks.github.io" target="_blank"> <b>Rajdeep Das</b></a> :man_technologist: </h2>
