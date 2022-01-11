@@ -1,3 +1,4 @@
+<h1 align="center">
   <a target="_blank">
     <img src="gif/Earth.gif" width="24px" style="max-width:100%;">
   </a>
@@ -7,6 +8,8 @@
   </a>
 </h1>
 
+<br/>
+<br/>
 <p align="center">
 <img src="gif/joey.gif" width="500px">
 </p>
