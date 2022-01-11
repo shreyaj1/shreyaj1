@@ -14,4 +14,4 @@
 <img src="gif/joey.gif" width="500px">
 </p>
 
-<h2> <a href="https://github.com/shreyaj1" target="_blank"> <b>Shreya Joshi</b></a> : 👩‍💻: </h2>
+<h2 align="center"> <a href="https://github.com/shreyaj1" target="_blank"> <b>Shreya Joshi</b></a>  👩‍💻 </h2>
