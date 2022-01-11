@@ -5,6 +5,7 @@
   <a target="_blank">
     <img src="gif/Hi.gif" width="40px" />
   </a>
+</h1>
 
 <p align="center">
 <img src="gif/joey.gif" width="500px">
