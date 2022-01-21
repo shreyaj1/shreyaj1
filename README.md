@@ -35,6 +35,7 @@
 - 📚I’m currently learning: **Blockchain and Crypto** | **Algorithms** | **Advanced C++** | **Advanced Python** | **Javascript**. 
 - 🤪Follow me because I'm pretty much active here  💁🏼‍♀️  [![GitHub followers](https://img.shields.io/github/followers/shreyaj1?label=Follow&style=social)](https://github.com/shreyaj1)
 <br>
+<br>
 
 ## 🔧 Technologies & Tools
 
