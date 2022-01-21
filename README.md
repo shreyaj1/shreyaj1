@@ -24,13 +24,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e29vbvrfdku85y35pqdb8xo15&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=e29vbvrfdku85y35pqdb8xo15&redirect=true)
 
-[![Instagram](https://img.shields.io/badge/shreahh-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/shreahh/)](https://www.instagram.com/shreahh/)
-[![Twitter Badge](https://img.shields.io/badge/-ShreyaJoshi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShreyaJoshi01)](https://twitter.com/ShreyaJoshi01) 
-[![Linkedin Badge](https://img.shields.io/badge/-ShreyaJoshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreya-joshi-211a07146/)](https://www.linkedin.com/in/shreya-joshi-211a07146/) 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/e29vbvrfdku85y35pqdb8xo15)](https://open.spotify.com/user/e29vbvrfdku85y35pqdb8xo15)
-[![Gmail Badge](https://img.shields.io/badge/-shreyaarunajoshi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shreyaarunajoshi@gmail.com)](mailto:shreyaarunajoshi@gmail.com)
+![](https://komarev.com/ghpvc/?username=shreyaj1&color=blue&label=COUNTING+PROFILE+VIEWS:+ )
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shreyaj1.shreyaj1)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 
 Welcome to my GitHub profile! 🥰 
 I am an undergraduate student at Univeristy of Delhi.
@@ -72,9 +68,18 @@ I am an undergraduate student at Univeristy of Delhi.
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaj1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="shreyaj1" height="192px"/>
 	</p>
   <br/>
-  
+
 <!--![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shreyaj1&theme=react-dark&hide_border=true&area=true)-->
 
   ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shreyaj1&theme=nord&column=7)](https://github.com/shreyaj1/github-profile-trophy)
+
+
+
+[![Instagram](https://img.shields.io/badge/shreahh-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/shreahh/)](https://www.instagram.com/shreahh/)
+[![Twitter Badge](https://img.shields.io/badge/-ShreyaJoshi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShreyaJoshi01)](https://twitter.com/ShreyaJoshi01) 
+[![Linkedin Badge](https://img.shields.io/badge/-ShreyaJoshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreya-joshi-211a07146/)](https://www.linkedin.com/in/shreya-joshi-211a07146/) 
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/e29vbvrfdku85y35pqdb8xo15)](https://open.spotify.com/user/e29vbvrfdku85y35pqdb8xo15)
+[![Gmail Badge](https://img.shields.io/badge/-shreyaarunajoshi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shreyaarunajoshi@gmail.com)](mailto:shreyaarunajoshi@gmail.com)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
