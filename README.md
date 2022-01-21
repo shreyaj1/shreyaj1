@@ -74,3 +74,7 @@ I am an undergraduate student at Univeristy of Delhi.
   <br/>
 
   <!--![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shreyaj1&theme=react-dark&hide_border=true&area=true)-->
+
+  ## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shreyaj1&theme=nord&column=7)](https://github.com/shreyaj1/github-profile-trophy)
