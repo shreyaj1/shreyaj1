@@ -31,3 +31,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-shreyaarunajoshi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shreyaarunajoshi@gmail.com)](mailto:shreyaarunajoshi@gmail.com)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shreyaj1.shreyaj1)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+I am Shreya 🥰 I am an undergraduate student at Univeristy of Delhi. I'm into Web-development and currently learning blockchain and crypto. follow me :💁🏼‍♀️: 
+  
+[![GitHub followers](https://img.shields.io/github/followers/aritra1804?label=Follow&style=social)](https://github.com/aritra1804/?tab=follow)
