@@ -24,3 +24,11 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e29vbvrfdku85y35pqdb8xo15&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=e29vbvrfdku85y35pqdb8xo15&redirect=true)
 
+![Twitter Badge](https://img.shields.io/badge/-AritraDutta-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AritraD30189522)](https://twitter.com/AritraD30189522) 
+
+[![Linkedin Badge](https://img.shields.io/badge/-AritraDutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aritra-dutta18/)](https://www.linkedin.com/in/aritra-dutta18/) 
+[![Gmail Badge](https://img.shields.io/badge/-aritradutta04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aritradutta04@gmail.com)](mailto:aritradutta04@gmail.com)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aritra1804.aritra1804)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/playlist/2PxkvP4bE5AFOkaSh9F56u)
