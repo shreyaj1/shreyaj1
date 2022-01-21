@@ -31,4 +31,4 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aritra1804.aritra1804)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/playlist/2PxkvP4bE5AFOkaSh9F56u)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/user/e29vbvrfdku85y35pqdb8xo15)
