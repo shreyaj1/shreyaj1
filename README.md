@@ -69,7 +69,7 @@ I am an undergraduate student at Univeristy of Delhi.
     <a href="https://github.com/shreyaj1"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyaj1&show_icons=true&locale=en&theme=chartreuse-dark" alt="shreyaj1" height="192px"/></a>
 	</p>
 	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaj1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="shreyaj1" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaj1&show_icons=true&locale=en&layout=compact&theme=merko" alt="shreyaj1" height="192px"/>
 	</p>
   <br/>
 
