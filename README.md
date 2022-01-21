@@ -32,4 +32,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shreyaj1.shreyaj1)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-I am Shreya 🥰 I am an undergraduate student at Univeristy of Delhi. I'm into Web-development and currently learning blockchain and crypto. follow me because I'm pretty much active here  💁🏼‍♀️  [![GitHub followers](https://img.shields.io/github/followers/shreyaj1?label=Follow&style=social)](https://github.com/shreyaj1)
+Welcome to my GitHub profile! 🥰 I am an undergraduate student at Univeristy of Delhi.
+I’m currently working on: Full-Stack Web Dev. 
+I’m currently learning: Blockchain and Crypto | Algorithms | Advanced C++ | Advanced Python | Javascript. 
+Follow me because I'm pretty much active here  💁🏼‍♀️  [![GitHub followers](https://img.shields.io/github/followers/shreyaj1?label=Follow&style=social)](https://github.com/shreyaj1)
