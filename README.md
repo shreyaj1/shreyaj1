@@ -60,7 +60,7 @@ I am an undergraduate student at Univeristy of Delhi.
 
 ### <b>🔥 Streak Stats:</b>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaj1&theme=algolia&bg_color=0d1117" alt="shreyaj1" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaj1&bg_color=0d1117" alt="shreyaj1" /></p>
 
 
 ### <b>💻 GitHub Profile Stats:</b>
