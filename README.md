@@ -31,14 +31,12 @@
 
 </p>
 
-
-
-
 Welcome to my GitHub profile! 🥰 
 I am an undergraduate student at Univeristy of Delhi.
 - 💻I’m currently working on: **Full-Stack Web Dev**. 
 - 📚I’m currently learning: **Blockchain and Crypto** | **Algorithms** | **Advanced C++** | **Advanced Python** | **Javascript**. 
 - 🤪Follow me because I'm pretty much active here  💁🏼‍♀️  [![GitHub followers](https://img.shields.io/github/followers/shreyaj1?label=Follow&style=social)](https://github.com/shreyaj1)
+<br>
 
 ## 🔧 Technologies & Tools
 
@@ -58,6 +56,7 @@ I am an undergraduate student at Univeristy of Delhi.
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
+<br>
 ## 📊 Github Stats 
 
 ### <b>🔥 Streak Stats:</b>
