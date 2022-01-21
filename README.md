@@ -73,4 +73,4 @@ I am an undergraduate student at Univeristy of Delhi.
 	</p>
   <br/>
 
-  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shreyaj1&theme=chartreuse-dark&hide_border=true&area=true)
+  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shreyaj1&theme=merko&hide_border=true&area=true)
