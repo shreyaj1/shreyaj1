@@ -24,10 +24,11 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e29vbvrfdku85y35pqdb8xo15&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=e29vbvrfdku85y35pqdb8xo15&redirect=true)
 
+##
 
-<p align="center">
+<p align="center"> <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/shreyaj1?label=Followers&style=social"> • <img src="https://img.shields.io/github/stars/shreyaj1?label=Stars"alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"></p>•
 
-![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=shreyaj1.shreyaj1) • <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/shreyaj1?label=Followers&style=social"> • <img src="https://img.shields.io/github/stars/shreyaj1?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"></p>
+![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=shreyaj1.shreyaj1)
 <br>
 
 ## Welcome to my GitHub profile! 🥰 
