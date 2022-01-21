@@ -55,3 +55,20 @@ I am an undergraduate student at Univeristy of Delhi.
 ![](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+## 📊 Github Stats 
+
+### <b>🔥 Streak Stats:</b>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaj1&theme=algolia" alt="shreyaj1" /></p>
+
+
+### <b>💻 GitHub Profile Stats:</b>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/shreyaj1"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyaj1&show_icons=true&locale=en&theme=algolia" alt="shreyaj1" height="192px"/></a>
+	</p>
+	<p  align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaj1&show_icons=true&locale=en&layout=compact&theme=algolia" alt="shreyaj1" height="192px"/>
+	</p>
+  <br/>
