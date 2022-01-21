@@ -26,9 +26,8 @@
 
 ##
 
-<p align="center"> <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/shreyaj1?label=Followers&style=social"> • <img src="https://img.shields.io/github/stars/shreyaj1?label=Stars"alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"></p>•
-
-![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=shreyaj1.shreyaj1)
+<p align="center">
+  <img src="https://gpvc.arturio.dev/shreyaj1" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/shreyaj1?label=Followers&style=social"> • <img src="https://img.shields.io/github/stars/shreyaj1?label=Stars"alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"></p>
 <br>
 
 ## Welcome to my GitHub profile! 🥰 
@@ -90,3 +89,4 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/e29vbvrfdku85y35pqdb8xo15)](https://open.spotify.com/user/e29vbvrfdku85y35pqdb8xo15)
 [![Gmail Badge](https://img.shields.io/badge/-shreyaarunajoshi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shreyaarunajoshi@gmail.com)](mailto:shreyaarunajoshi@gmail.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=shreyaj1.shreyaj1)
