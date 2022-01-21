@@ -27,7 +27,7 @@
 ##
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/shreyaj1" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/shreyaj1?label=Followers&style=social"> • <img src="https://img.shields.io/github/stars/shreyaj1?label=Stars"alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"></p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shreyaj1.shreyaj1" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/shreyaj1?label=Followers&style=social"> • <img src="https://img.shields.io/github/stars/shreyaj1?label=Stars"alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"></p>
 <br>
 
 ## Welcome to my GitHub profile! 🥰 
