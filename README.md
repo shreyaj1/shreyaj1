@@ -60,15 +60,15 @@ I am an undergraduate student at Univeristy of Delhi.
 
 ### <b>🔥 Streak Stats:</b>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaj1&bg_color=0d1117" alt="shreyaj1" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaj1&chartreuse-dark&bg_color=0d1117" alt="shreyaj1" /></p>
 
 
 ### <b>💻 GitHub Profile Stats:</b>
   <br/>
   <p align="center">
-    <a href="https://github.com/shreyaj1"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyaj1&show_icons=true&locale=en&theme=algolia&bg_color=0d1117" alt="shreyaj1" height="192px"/></a>
+    <a href="https://github.com/shreyaj1"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyaj1&show_icons=true&locale=enchartreuse-dark&bg_color=0d1117" alt="shreyaj1" height="192px"/></a>
 	</p>
 	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaj1&show_icons=true&locale=en&layout=compact&theme=algolia" alt="shreyaj1" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaj1&show_icons=true&locale=en&layout=compactchartreuse-dark" alt="shreyaj1" height="192px"/>
 	</p>
   <br/>
