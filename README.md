@@ -24,11 +24,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e29vbvrfdku85y35pqdb8xo15&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=e29vbvrfdku85y35pqdb8xo15&redirect=true)
 
-![Twitter Badge](https://img.shields.io/badge/-AritraDutta-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AritraD30189522)](https://twitter.com/AritraD30189522) 
-
-[![Linkedin Badge](https://img.shields.io/badge/-AritraDutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aritra-dutta18/)](https://www.linkedin.com/in/aritra-dutta18/) 
-[![Gmail Badge](https://img.shields.io/badge/-aritradutta04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aritradutta04@gmail.com)](mailto:aritradutta04@gmail.com)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aritra1804.aritra1804)
+[![Twitter Badge](https://img.shields.io/badge/-ShreyaJoshi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShreyaJoshi01)](https://twitter.com/ShreyaJoshi01) 
+[![Linkedin Badge](https://img.shields.io/badge/-ShreyaJoshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreya-joshi-211a07146/)](https://www.linkedin.com/in/shreya-joshi-211a07146/) 
+[![Gmail Badge](https://img.shields.io/badge/-shreyaarunajoshi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shreyaarunajoshi@gmail.com)](mailto:shreyaarunajoshi@gmail.com)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shreyaj1.shreyaj1)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/user/e29vbvrfdku85y35pqdb8xo15)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/e29vbvrfdku85y35pqdb8xo15)](https://open.spotify.com/user/e29vbvrfdku85y35pqdb8xo15)
