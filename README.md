@@ -22,5 +22,5 @@
 
 ### Vibing to : 🎧  <!--img src="https://media.giphy.com/media/kC8QA2OYWOADK0e1Uk/giphy.gif" width="30" style="padding-top: 10px;" -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e29vbvrfdku85y35pqdb8xo15&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e29vbvrfdku85y35pqdb8xo15&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=e29vbvrfdku85y35pqdb8xo15&redirect=true)
 
