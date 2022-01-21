@@ -24,7 +24,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e29vbvrfdku85y35pqdb8xo15&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=e29vbvrfdku85y35pqdb8xo15&redirect=true)
 
-![](https://komarev.com/ghpvc/?username=shreyaj1&color=blue&label=COUNTING+PROFILE+VIEWS:+ )
+![](https://komarev.com/ghpvc/?username=shreyaj1&color=blue&label=VISITORS:+ )
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shreyaj1.shreyaj1)
 
 
