@@ -17,7 +17,7 @@
 <h1> <a href="https://github.com/shreyaj1" target="_blank"> <b>Shreya Joshi</b></a>  👩‍💻 </h1>
 <br>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%232CF313&size=25&center=true&vCenter=true&width=550&height=50&lines=CS+student;Web+developer;Tech+Enthusiast;Confused+coder+%3A%22);Learning+Blockchain%2Fcrypto;Upgrading+skills&font=georgia"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%232CF313&size=25&center=true&vCenter=true&width=550&height=50&lines=CS+student;Web+developer;Tech+Enthusiast;Confused+coder+%3A%22);Learning new things;Upgrading+skills&font=georgia"></a>
 </p>
 
 ### Vibing to : 🎧  <!--img src="https://media.giphy.com/media/kC8QA2OYWOADK0e1Uk/giphy.gif" width="30" style="padding-top: 10px;" -->
