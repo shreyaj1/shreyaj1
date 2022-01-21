@@ -72,8 +72,8 @@ I am an undergraduate student at Univeristy of Delhi.
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaj1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="shreyaj1" height="192px"/>
 	</p>
   <br/>
-[![github activity graph](https://activity-graph.herokuapp.com/graph?username=shreyaj1&theme=chartreuse-dark)](https://github.com/shreyaj1/github-readme-activity-graph)
-  <!--![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shreyaj1&theme=react-dark&hide_border=true&area=true)-->
+  
+<!--![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shreyaj1&theme=react-dark&hide_border=true&area=true)-->
 
   ## 🏆 GitHub Trophies
 
