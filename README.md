@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shreyaj1.shreyaj1" alt="Visitors"> •<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/shreyaj1?label=Followers&style=social"> • <img src="https://img.shields.io/github/stars/shreyaj1?label=Stars"alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> • <img src="https://github.com/ellerbrock/open-source-badge/"alt="Open Source"></p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shreyaj1.shreyaj1" alt="Visitors"> •<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/shreyaj1?label=Followers&style=social"> • <img src="https://img.shields.io/github/stars/shreyaj1?label=Stars"alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> • <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102"alt="Open Source Love"></p>
 
 ## Welcome to my GitHub profile! 🥰 
 
