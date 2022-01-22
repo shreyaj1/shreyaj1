@@ -54,6 +54,21 @@
 
 <!--![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shreyaj1&theme=react-dark&hide_border=true&area=true)-->
 
+</p>
+
+<h1 align="center"> ✨ PINNED: </h1>
+<p align="center">
+  <a href="https://github.com/shreyaj1/mindy2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaj1&repo=mindy2&theme=chartreuse-dark">
+  </a>
+  <a href="https://github.com/shreyaj1/Mindy.">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaj1&repo=Mindy.&theme=chartreuse-dark">
+  </a>
+  <a href="https://github.com/shreyaj1/Donatly.">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaj1&repo=Donatly.&theme=chartreuse-dark">
+  </a>
+</p>    
+
   ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shreyaj1&theme=nord&column=7)](https://github.com/shreyaj1/github-profile-trophy)
