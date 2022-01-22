@@ -64,8 +64,8 @@
   <a href="https://github.com/shreyaj1/Mindy.">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaj1&repo=Mindy.&theme=chartreuse-dark">
   </a>
-  <a href="https://github.com/shreyaj1/Donatly.">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaj1&repo=Donatly.&theme=chartreuse-dark">
+  <a href="https://github.com/shreyaj1/Donatly">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaj1&repo=Donatly&theme=chartreuse-dark">
   </a>
 </p>    
 
