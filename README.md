@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <p align="center">
-<img src="gif/simpsons-learning.gif" width="500px">
+<img src="gif/simpsons-learning.gif" width="300px" height="250px">
 </p>
 
 <h1> <a href="https://github.com/shreyaj1" target="_blank"> <b>Shreya Joshi</b></a>  👩‍💻 </h1>
