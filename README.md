@@ -77,9 +77,10 @@
 
 <br>
 
+## 🤝 Connect with me 
+
 [![Instagram](https://img.shields.io/badge/shreahh-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/shreahh/)](https://www.instagram.com/shreahh/)
 [![Twitter Badge](https://img.shields.io/badge/-ShreyaJoshi-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShreyaJoshi01)](https://twitter.com/ShreyaJoshi01) 
 [![Linkedin Badge](https://img.shields.io/badge/-ShreyaJoshi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreya-joshi-211a07146/)](https://www.linkedin.com/in/shreya-joshi-211a07146/) 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/user/e29vbvrfdku85y35pqdb8xo15)](https://open.spotify.com/user/e29vbvrfdku85y35pqdb8xo15)
+[![Spotify](https://img.shields.io/badge/Shreya-1ED760?style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/user/e29vbvrfdku85y35pqdb8xo15)](https://open.spotify.com/user/e29vbvrfdku85y35pqdb8xo15)
 [![Gmail Badge](https://img.shields.io/badge/-shreyaarunajoshi@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shreyaarunajoshi@gmail.com)](mailto:shreyaarunajoshi@gmail.com)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
