@@ -73,7 +73,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shreyaj1&theme=juicyfresh&column=7)](https://github.com/shreyaj1/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shreyaj1&theme=darkhub&column=7)](https://github.com/shreyaj1/github-profile-trophy)
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
