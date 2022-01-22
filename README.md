@@ -31,7 +31,7 @@
 ## Welcome to my GitHub profile! 🥰 
 
 - 💻I’m currently working on: **Full-Stack Web Dev**. 
-- 📚I’m currently learning: **Blockchain and Crypto** | **Algorithms** | **Advanced C++** | **Advanced Python** | **Javascript**. 
+- 📚I’m learning: **Blockchain and Crypto** | **Algorithms** | **Advanced C++** | **Advanced Python** | **Javascript**. 
 - 🤪Follow me [![GitHub followers](https://img.shields.io/github/followers/shreyaj1?label=Follow&style=social)](https://github.com/shreyaj1)
 <br>
 
