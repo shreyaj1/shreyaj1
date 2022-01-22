@@ -56,7 +56,7 @@
 
 </p>
 
-<h1 align="center"> ✨ PINNED: </h1>
+<h1 align="center"> PINNED: </h1>
 <p align="center">
   <a href="https://github.com/shreyaj1/mindy2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaj1&repo=mindy2&theme=chartreuse-dark">
